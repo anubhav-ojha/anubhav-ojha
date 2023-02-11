@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-ojha&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-ojha" /> </p>
 
-- 🔭 I’m currently Preparing for **AWS Certified Solutions Architect - Professional**
-
-- 🌱 I’m currently learning **Angular, AWS Services, AWS Certified Solutions Architect - Professional by Stephane Maarek**
+- 🔭 Certifications - 
+- 1) AWS Certified Solution Architect - Associate 
+- 2) AWS Certified Developer Associate 
 
 - 📫 How to reach me **anubhavojha9@gmail.com**
 
