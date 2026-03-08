@@ -65,8 +65,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhav-ojha&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-ojha&layout=compact&theme=tokyonight" height="165"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anubhav-ojha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=anubhav-ojha&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhav-ojha&theme=tokyo-night&hide_border=true" width="98%"/>
 </p>
 
 ---
