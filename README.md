@@ -65,7 +65,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anubhav-ojha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anubhav-ojha&theme=tokyonight" />
   <img width="48%" src="https://streak-stats.demolab.com?user=anubhav-ojha&theme=tokyonight&hide_border=true" />
 </p>
 
