@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=8E54E9&center=true&vCenter=true&width=750&lines=🏗️+Building+Cloud-Native+Infrastructure+at+Scale;☁️+AWS+Solutions+Architect+%7C+5%2B+Years;🔐+Fintech+%7C+Security+%7C+Data+Migration;🧱+Terraform+Everything.+No+ClickOps.;🤖+Serverless+%7C+Containers+%7C+IaC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=8E54E9&center=true&vCenter=true&width=750&lines=Building+Cloud-Native+Infrastructure+at+Scale;AWS+Solutions+Architect+%7C+5%2B+Years;Fintech+%7C+Security+%7C+Data+Migration;Terraform+Everything.+No+ClickOps.;Serverless+%7C+Containers+%7C+IaC" alt="Typing SVG"/>
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -184,21 +184,21 @@ Fintech-grade data migration pipelines on AWS: Step Functions orchestration, Lam
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhav-ojha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anubhav-ojha&theme=tokyonight" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-ojha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anubhav-ojha&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-ojha&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=anubhav-ojha&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🏅 Trophies
+## 🏅 Contribution Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhav-ojha&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anubhav-ojha&theme=tokyonight" width="98%"/>
 </p>
 
 ---
